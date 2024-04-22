@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildOnlineAPI", "BuildOnlineAPI\BuildOnlineAPI.csproj", "{D165F6AA-3178-46E3-A871-33E47A280D62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D165F6AA-3178-46E3-A871-33E47A280D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D165F6AA-3178-46E3-A871-33E47A280D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D165F6AA-3178-46E3-A871-33E47A280D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D165F6AA-3178-46E3-A871-33E47A280D62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3B8AB95-72D4-42D9-AC73-8CE6106BEAD5}
+	EndGlobalSection
+EndGlobal
